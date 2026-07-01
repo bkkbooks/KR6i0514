@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6i0514/v1
+canonical_location: https://kanripo.org/bkk/KR6i0514/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說犢子經
+  identifiers:
+    alt_id:
+    - T17n0808
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0808.xml
+    old_id: T17n0808
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit8
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0514_000.yaml, hash: 'sha256:f06cd30a1a410aca5a0675dee3ed67858f514e2c9405e620497705e414497f88'}
+  - {seq: 1, filename: KR6i0514_001.yaml, hash: 'sha256:6665cdd012848707638c86da467ba1f30264c1dc4d267de2c92db57d4567c11b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0514_001.markers.yaml, hash: 'sha256:6039b421a030c766f1c11ff2e9f2a302f3b3f7a1855fc4f3d9ec021d5870d58c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0514_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 617
+  label: 佛說犢子經
+  type: juan
+  level: 1
+hash: sha256:834552559979bcac22179a10986b4b6ebbab098e7d271e603213cb0f9ef70549
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
