@@ -64,7 +64,6 @@ markers:
   - {type: xml-element, offset: 120, content: '', id: pT17p0754a1213, name: p, role: open, attrs: {'xml:id': pT17p0754a1213, 'cb:place': inline}}
   - {type: line-break, offset: 125, content: '', id: KR6i0514_T_001-0754a13, ed: T, 'n': 0754a13}
   - {type: variant, offset: 126, length: 1, content: 群, 宋: '', 元: '', 明: '', 宮: ''}
-  - {type: substitution, offset: 126, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 128, content: 。, id: KR6i0514_T_001-bkkpn27}
   - {type: variant, offset: 128, length: 6, content: 有一牸牛，性常, 宮: 牛當, 宋: 牸牛性常, 元: 牸牛性常, 明: 牸牛性常}
   - {type: punctuation, offset: 132, content: ，, id: KR6i0514_T_001-bkkpn28}
@@ -252,4 +251,4 @@ markers:
   - {type: xml-element, offset: 617, content: '', id: pT17p0754b1108_end, name: p, role: close, attrs: {'xml:id': pT17p0754b1108, 'cb:place': inline}}
   - {type: line-break, offset: 617, content: '', id: KR6i0514_T_001-0754b15, ed: T, 'n': 0754b15}
   back: []
-hash: sha256:6039b421a030c766f1c11ff2e9f2a302f3b3f7a1855fc4f3d9ec021d5870d58c
+hash: sha256:717cebd4599ee5bef78bf58664e3036264b778f67a99d34517aab0342ba2e2a9
