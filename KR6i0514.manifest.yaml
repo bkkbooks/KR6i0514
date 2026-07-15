@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0514/v1
 canonical_location: https://kanripo.org/bkk/KR6i0514/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說犢子經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0514_000.yaml, hash: 'sha256:f06cd30a1a410aca5a0675dee3ed67858f514e2c9405e620497705e414497f88'}
-  - {seq: 1, filename: KR6i0514_001.yaml, hash: 'sha256:6665cdd012848707638c86da467ba1f30264c1dc4d267de2c92db57d4567c11b'}
+  - {seq: 1, filename: KR6i0514_001.yaml, hash: 'sha256:d59a372c04d0ca1edaed3ea5a0337a8a55c580cd2f4dbdcaa44c4ef601440b09'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0514_000.markers.yaml, hash: 'sha256:9f000fa2b4b9b745a38c48cebd2e2b4a56d7b908a9d512a0790b949146770efe'}
-  - {seq: 1, role: markers, filename: assets/KR6i0514_001.markers.yaml, hash: 'sha256:717cebd4599ee5bef78bf58664e3036264b778f67a99d34517aab0342ba2e2a9'}
+  - {seq: 1, role: markers, filename: assets/KR6i0514_001.markers.yaml, hash: 'sha256:84fa04421f56fc1a7dd301ce34442edbcd4ba15931d4c4029a69ea12cc8f8433'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 佛說犢子經
   type: juan
   level: 1
-hash: sha256:d6703bd3d281cb68745ca4748e3fbb6373d5834fa6d7595d27b0a99e4363bb62
+hash: sha256:398bc58e55dfb0b712c58fcb7dc261dbee5bc0ed67c18c38e0f555148e651aee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
